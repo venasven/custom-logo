@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "Command line tool to generate an svg logo and write it to file.",
+  "description": "custom logo maker",
   "main": "index.js",
   "scripts": {
     "test": "jest"
